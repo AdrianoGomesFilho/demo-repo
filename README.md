@@ -3,5 +3,3 @@
 Description.
 
 Adicionando
-
-Informação
